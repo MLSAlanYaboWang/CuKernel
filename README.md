@@ -1,2 +1,2 @@
 # CuKernel
-A kernel written in Assembly, C, and D (experimental)
+A kernel written in Assembly, C++, and D (experimental)
